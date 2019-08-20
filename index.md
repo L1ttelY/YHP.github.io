@@ -8,6 +8,6 @@
   (待补完)
   ```
 ### 关于我的项目
-  *ElementsDungeon
-    *一个roguelite类小游戏
-    *目前状态：正在编写引擎机制
+  - ElementsDungeon
+    - 一个roguelite类小游戏
+    - 目前状态：正在编写引擎机制
