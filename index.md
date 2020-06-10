@@ -16,4 +16,4 @@
     - 一个roguelite类小游戏
     - 以捡起和扔出场上物品为核心玩法
     - 目前状态：已经发布，正在进行后续更新
-    - [发布页面](https://L1ttelY.github.io/throwaway_game_release)
+    - [发布页面](https://l1ttely.github.io/throwaway_game_release/)
