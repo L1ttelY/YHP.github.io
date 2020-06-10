@@ -11,7 +11,8 @@
   - ElementsDungeon
     - 一个roguelite类小游戏
     - 目前状态：正在编写引擎机制
-  -Throwaway game
-    -一个roguelite类小游戏
-    -以捡起和扔出场上物品为核心玩法
-    -目前状态：已经发布，正在进行后续更新
+  
+  - Throwaway game
+    - 一个roguelite类小游戏
+    - 以捡起和扔出场上物品为核心玩法
+    - 目前状态：已经发布，正在进行后续更新
